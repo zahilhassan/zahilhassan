@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zahilhassan/Zahil-Hassan/main/banner.png" width="100%" alt="Zahil Hassan Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Zahil Hassan</h1>
 
