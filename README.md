@@ -36,20 +36,16 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zahilhassan&theme=tokyonight&hide_border=true" />
+  <a href="https://x.com/HassanZahi88594"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://discord.com/users/zahilhassan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:zahilhassan332bb@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahilhassan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahilhassan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
 
 ## 📈 Contribution Graph
 
