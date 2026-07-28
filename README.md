@@ -62,9 +62,8 @@
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zahilhassan/zahilhassan/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/zahilhassan/zahilhassan/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 ## 🌐 Connect With Me
